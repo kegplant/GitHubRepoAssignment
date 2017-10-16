@@ -1,0 +1,8 @@
+  530  cd DojoAssignments/WebFundamentals/Git/
+  531  mkdir GitHubRepoAssignment
+  532  cd GitHubRepoAssignment/
+  533  git init
+  534  touch readme.md
+  535  git status
+  536  git add .
+  537  git commit -m "initial commit"
