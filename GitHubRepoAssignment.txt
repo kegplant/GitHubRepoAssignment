@@ -6,3 +6,9 @@
   535  git status
   536  git add .
   537  git commit -m "initial commit"
+    539  pbpaste > GitHubRepoAssignment.txt
+  540  git add .
+  541  git commit -m "GitHubRepoAssignment.txt added"
+  542  git remote add origin https://github.com/kegplant/GitHubRepoAssignment.git
+  543  git push -u origin master
+  544  history 20
